@@ -19,6 +19,9 @@
     <link rel="stylesheet" href="main/css/display.css" />
      <!-- trix editor    -->
     <link rel="stylesheet" href="main/css/trix.css">
+    <!-- flatpicr -->
+    <link rel="stylesheet" href="main/css/flatpickr.min.css">
+
 
     <!-- Google Font: Source Sans Pro -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
@@ -449,7 +452,13 @@
 <script src="plugins/jquery-mapael/jquery.mapael.min.js"></script>
 <!-- trix editor-->
 <script src="main/js/trix.js"></script>
+<!-- Flatpickr -->
+<script src="main/js/flatpickr.js"></script>
+<script type="text/javascript">
+     flatpickr("#published_at", {
+       enableTime: true,
+       enableSeconds: true,
+     });
+   </script>
 </body>
 </html>
-
-
