@@ -235,71 +235,36 @@
 }
 
 .dropdown-menu.extended.logout > li:last-child {
-
     float: left;
-
     text-align: left;
-
     width: 100%;
-
     background: #688a7e;
-
 }
-
-
-
 .dropdown-menu.extended.logout > li:last-child > a, .dropdown-menu.extended.logout > li:last-child > a:hover {
-
     color: #fff;
-
     border-bottom: none !important;
-
     text-transform: uppercase;
-
     background-color:#688a7e !important;
-
 }
-
-
-
 .dropdown-menu.extended.logout > li:last-child > a:hover > i{
 
     color: #fff;
-
 }
-
 .dropdown-menu > li > a{
-
     color: #797979;
-
 }
-
 .dropdown-menu.extended.logout > li > a {
-
     border-bottom: 1px solid #EBEBEB !important;
-
     font-size: 14px;
-
     list-style: none;
-
     padding: 15px 10px !important;
-
     width: 100%;
-
-    display: inline-block;
-
+  display: inline-block;
 }
-
-
-
 .dropdown-menu.extended.logout > li > a:hover {
-
     background-color: #F7F8F9 !important;
-
     color: #2E2E2E;
-
     border-bottom: 1px solid #688a7e !important;
-
 }
 .dropdown-menu.extended.logout > li > a:hover i {
 
