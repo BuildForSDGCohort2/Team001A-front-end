@@ -301,33 +301,19 @@
     border-bottom: 1px solid #688a7e !important;
 
 }
-
-
-
 .dropdown-menu.extended.logout > li > a:hover i {
 
     color: #688a7e;
-
 }
-
-
-
 .dropdown-menu.extended.logout > li > a i {
 
     font-size: 17px;
-
 }
-
-
-
 .dropdown-menu.extended.logout > li > a > i {
 
     display: inline-block;
-
     padding-right: 10px
-
 }
-
 .btn{
   text-decoration: none !important;
 }
